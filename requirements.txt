@@ -23,7 +23,7 @@ plotly
 altair
 
 
-streamlit==1.25.0
+streamlit
 
 
 jupyter
